@@ -1,0 +1,271 @@
+{
+   "Reading,Writing,Sports,TV Shows,Journaling": [
+      {
+         "Passion": "Writing",
+         "Goal": "Publish books,Make products,Money",
+         "Missions": "Exercise more,Learn a new sport,Practice technical skills,Learn Cooking,Build personal relationships,Read a book,Write a book"
+      }
+   ],
+   "Meditation,Reading,Movies,Trekking,Jogging": [
+      {
+         "Passion": "Helping",
+         "Goal": "Money,Travel the world",
+         "Missions": "Learn spiritual sciences,Practice technical skills,Read a book,Make a travel map,Help a charity"
+      }
+   ],
+   "Reading ": [
+      {
+         "Passion": "Writing",
+         "Goal": "Difference Maker",
+         "Missions": "Reading"
+      }
+   ],
+   "": [
+      {
+         "Passion": "Coding",
+         "Goal": "Hacker",
+         "Missions": "Practice coding,Learn new programming language"
+      }
+   ],
+   "Reading,Writing,Socialising": [
+      {
+         "Passion": "",
+         "Goal": "Peace",
+         "Missions": "Read a book,Build personal relationships,Do adventure sports"
+      }
+   ],
+   "Writing,Reading,Yoga,Exercise,Music": [
+      {
+         "Passion": "Writing,Art",
+         "Goal": "Publish books,Dentist",
+         "Missions": "Write a book,Read a book,Exercise more"
+      }
+   ],
+   "Singing": [
+      {
+         "Passion": "",
+         "Goal": "",
+         "Missions": "Learn new style of signing"
+      }
+   ],
+   "Investment,Photography,Cricket,Boxing": [
+      {
+         "Passion": "Entrepreneurship",
+         "Goal": "Start company",
+         "Missions": "Have brainstorming sessions for dream company,Learn Photography,Read a book"
+      }
+   ],
+   "Reading,Music": [
+      {
+         "Passion": "Coding",
+         "Goal": "Difference Maker",
+         "Missions": "Practice coding,Learn new programming language,Learn to play an instrument,Read a book,Learn something new"
+      }
+   ],
+   "Basketball,Gaming,Reading": [
+      {
+         "Passion": "Content creation",
+         "Goal": "Money,Travel the world",
+         "Missions": "Read a book,Practice Basketball,Create content in field of interest,Make a travel map"
+      }
+   ],
+   "Exercise,Yoga,Coding,Netflix,Reading": [
+      {
+         "Passion": "Travelling",
+         "Goal": "Start company",
+         "Missions": "Read a book,Have brainstorming sessions for dream company,Exercise more"
+      }
+   ],
+   "Designing,Hackathons,Music": [
+      {
+         "Passion": "Content creation",
+         "Goal": "Start company",
+         "Missions": "Practice coding,Have brainstorming sessions for dream company,Create content in field of interest"
+      }
+   ],
+   "Martial arts,Music,Exercise": [
+      {
+         "Passion": "Martial arts",
+         "Goal": "Difference Maker",
+         "Missions": "Learn to play an instrument,Exercise more,Build personal relationships,Learn something new"
+      }
+   ],
+   "Cooking,Gardening": [
+      {
+         "Passion": "",
+         "Goal": "Travel the world",
+         "Missions": "Learn Cooking,Plant a new tree,Make a travel map"
+      }
+   ],
+   "Travelling": [
+      {
+         "Passion": "Cricket",
+         "Goal": "Travel the world",
+         "Missions": "Make a travel map"
+      },
+      {
+         "Passion": "Helping",
+         "Goal": "Responsible",
+         "Missions": "Make a travel map,Help a charity,Time Management"
+      },
+      {
+         "Passion": "Sports",
+         "Goal": "Money",
+         "Missions": "Make a travel map,Learn a new sport,Build personal relationships"
+      }
+   ],
+   "Music,Driving,Reading": [
+      {
+         "Passion": "Job",
+         "Goal": "Doctor",
+         "Missions": "Read a book,Learn to play an instrument"
+      }
+   ],
+   "Reading,Travelling": [
+      {
+         "Passion": "Job",
+         "Goal": "Career Success",
+         "Missions": "Read a book,Make a travel map,Make career plan"
+      }
+   ],
+   "Music": [
+      {
+         "Passion": "",
+         "Goal": "Money",
+         "Missions": "Make a travel map,Build personal relationships"
+      }
+   ],
+   "Making YouTube videos": [
+      {
+         "Passion": "Making things",
+         "Goal": "Happiness",
+         "Missions": "Create content in field of interest,Take up a new project"
+      }
+   ],
+   "Web Development,Coding,Gaming,Learning Languages": [
+      {
+         "Passion": "Coding",
+         "Goal": "Make products",
+         "Missions": "Practice coding,Learn new programming language,Learn to play an instrument"
+      }
+   ],
+   "Reading,Movies,Travelling": [
+      {
+         "Passion": "",
+         "Goal": "",
+         "Missions": "Read a book,Make a travel map"
+      }
+   ],
+   "Writing,Reading,Gaming,History,Psychology": [
+      {
+         "Passion": "Writing,Helping",
+         "Goal": "Publish books,Clinical Psychologist",
+         "Missions": "Read a book,Write a book,Help a charity"
+      }
+   ],
+   "Gaming": [
+      {
+         "Passion": "Learning new",
+         "Goal": "Difference Maker",
+         "Missions": "Learn something new"
+      }
+   ],
+   "Gaming,Writing,Music,Walking": [
+      {
+         "Passion": "Cars,Technology",
+         "Goal": "Civil engineer,Time Management",
+         "Missions": "Practice coding,Learn new programming language,Learn to play an instrument,Read a book,Write a book,Time management"
+      }
+   ],
+   "Exercise": [
+      {
+         "Passion": "Autosports",
+         "Goal": "Difference Maker",
+         "Missions": "Practice coding,Learn new programming language,Time Management,Exercise more"
+      }
+   ],
+   "3D Printing,Coding,Writing,Audiobooks,Watching YouTube": [
+      {
+         "Passion": "Making things",
+         "Goal": "Stability,Work on Passion",
+         "Missions": "Practice coding,Learn new programming language,Write a book,Listen to a Audiobook,Take up a new project"
+      }
+   ],
+   "Fishing,Cooking,Reading": [
+      {
+         "Passion": "Helping",
+         "Goal": "Graduate,Career Success",
+         "Missions": "Build personal relationships,Learn Cooking,Read a book,Learn Leadership,Help a charity,Make career plan"
+      }
+   ],
+   "Sports,Coding": [
+      {
+         "Passion": "Making things,Helping",
+         "Goal": "Career Success",
+         "Missions": "Practice coding,Learn new programming language,Create content in field of interest,Exercise more,Learn a new sport,Take up a new project,Help a charity,Make career plan"
+      }
+   ],
+   "Baking,Music": [
+      {
+         "Passion": "Baking,Makeup,Skincare",
+         "Goal": "Business",
+         "Missions": "Learn to play an instrument,Learn Baking,Build personal relationships"
+      }
+   ],
+   "Piano,Reading,Swimming": [
+      {
+         "Passion": "Learning new,Socialising",
+         "Goal": "Money,Stability,Helping",
+         "Missions": "Learn something new,Build personal relationships,Read a book,Help a charity"
+      }
+   ],
+   "Reading,Gaming": [
+      {
+         "Passion": "Real Estate",
+         "Goal": "Money",
+         "Missions": "Read a book,Build personal relationships,Learn Real Estate"
+      }
+   ],
+   "Drawing,Painting,Trekking,Socialising": [
+      {
+         "Passion": "Art",
+         "Goal": "Happiness,Helping",
+         "Missions": "Help a charity,Learn new form of Art"
+      }
+   ],
+   "Gaming,Sports": [
+      {
+         "Passion": "Physics",
+         "Goal": "Career Success",
+         "Missions": "Learn a new sport,Exercise more,Make career plan"
+      }
+   ],
+   "Sports,Financial literacy,Self development,Exercise": [
+      {
+         "Passion": "Cricket",
+         "Goal": "Money,Athelete",
+         "Missions": "Learn a new sport,Exercise more,Build personal relationships"
+      }
+   ],
+   "Sports,Music,Cooking": [
+      {
+         "Passion": "Music,Coding,Sports",
+         "Goal": "Stability",
+         "Missions": "Learn a new sport,Learn Cooking,Learn to play an instrument,Practice coding,Learn new programming language"
+      }
+   ],
+   "Dancing,Reading": [
+      {
+         "Passion": "",
+         "Goal": "",
+         "Missions": "Learn a new dance form,Read a book"
+      }
+   ],
+   "Sports,Cooking,Gaming": [
+      {
+         "Passion": "Sports,Gaming",
+         "Goal": "Career Success",
+         "Missions": "Make career plan,Learn a new sport,Learn Cooking"
+      }
+   ]
+}
